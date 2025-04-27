@@ -20,12 +20,13 @@ Foi desenvolvido como parte dos estudos para a construção de um **somador de 3
 - Completar o somador de 1 bit com a lógica da **Soma (S)**.
 - Expandir o projeto para um **somador de 3 bits** completo.
 
+
 ---
 
 ## 📂 Materiais disponíveis
 
 - 🖼️ GIF demonstrativo da simulação
-- https://github.com/GabrielGoulartM/meio-somador3bits-circuitverse/blob/main/thinkercad-simulations/Comportamento%20circuito1.gif?raw=true
+- ![Uploading Comportamento circuito1.gif…]()
 - 📄 Arquivo exportado do Tinkercad (.brd )
 - 🔗 [Acesse a simulação no Tinkercad aqui](https://www.tinkercad.com/things/a8xSBzxUf3Z/editel?returnTo=%2Fprojects&sharecode=ovCnDKJl93iKsV01vfYwhYtNPlSw7E8s3y6qJv_SfMg)
 
