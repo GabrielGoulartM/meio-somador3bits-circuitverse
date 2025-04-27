@@ -28,7 +28,7 @@ Foi desenvolvido como parte dos estudos para a construção de um **somador de 3
 
 - 🖼️ GIF demonstrativo da simulação
 ![Comportamento circuito1](https://github.com/user-attachments/assets/24f74187-1fc5-4a22-9be7-22d0f34cb307)
-- 📄 Arquivo exportado do Tinkercad (.brd )
+- 📄 [Comportamento Circuito](https://github.com/GabrielGoulartM/meio-somador3bits-circuitverse/raw/main/thinkercad-simulations/somador-vout.brd)
 - 🔗 [Link para o simulador no Thinkercad](https://www.tinkercad.com/things/a8xSBzxUf3Z/editel?returnTo=%2Fprojects&sharecode=ovCnDKJl93iKsV01vfYwhYtNPlSw7E8s3y6qJv_SfMg)
 
 ---
