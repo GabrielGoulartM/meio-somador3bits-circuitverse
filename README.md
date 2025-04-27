@@ -27,5 +27,4 @@ O circuito calcula:
 
 ---
 
-🔗 [Link para simulação no CircuitVerse]([ADICIONE_O_LINK_AQUI](https://circuitverse.org/simulator/edit/somador-3-bits-81c37a8a-3382-47c9-8cf4-5679bceb8c42))
-
+🔗[ [Link para simulação no CircuitVerse]](https://circuitverse.org/simulator/edit/untitled-c7dddf7d-137c-4657-b1e8-6562e9d68a72)
